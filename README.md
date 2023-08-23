@@ -100,3 +100,21 @@ python3 retrain.py --encoder_name resnet50 --max_steps 2960 --batch_size 128 --l
 The values correspond to the best hyperparameter set of our study.
 
 
+# Publication and Citation
+Improved weed segmentation in UAV imagery of sorghum fields with a combined deblurring segmentation model
+Genze, N., Wirth, M., Schreiner, C., Ajekwe, R., Grieb, M., & Grimm, D. G.
+Plant Methods, 2023, https://doi.org/10.1186/s13007-023-01060-8
+
+@article{genze_improved_2023,
+	title = {Improved weed segmentation in {UAV} imagery of sorghum fields with a combined deblurring segmentation model},
+	volume = {19},
+	issn = {1746-4811},
+	url = {https://doi.org/10.1186/s13007-023-01060-8},
+	doi = {10.1186/s13007-023-01060-8},
+	number = {1},
+	journal = {Plant Methods},
+	author = {Genze, Nikita and Wirth, Maximilian and Schreiner, Christian and Ajekwe, Raymond and Grieb, Michael and Grimm, Dominik G.},
+	month = aug,
+	year = {2023},
+	pages = {87},
+}
